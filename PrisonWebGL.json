@@ -1,0 +1,17 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Text101",
+"productVersion": "0.1",
+"dataUrl": "PrisonWebGL.data.unityweb",
+"asmCodeUrl": "PrisonWebGL.asm.code.unityweb",
+"asmMemoryUrl": "PrisonWebGL.asm.memory.unityweb",
+"asmFrameworkUrl": "PrisonWebGL.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.1f1"
+}
